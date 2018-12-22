@@ -10,3 +10,7 @@ for syma drone vertically.
 # Annotating Fun
 
 I'm using LabelImg.  
+https://github.com/tzutalin/labelImg
+
+// Instructionson installing are on there. I'm using Python 3 + Qt5, but idk if it matters.
+
