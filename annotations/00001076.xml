@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00001076.jpg</filename>
+	<path>/home/victoria/DroneData/images/00001076.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>drone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>37</ymin>
+			<xmax>146</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>
